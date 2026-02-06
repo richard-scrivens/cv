@@ -1,7 +1,7 @@
 # Curriculum Vitae
 
 ## Personal Details
-- **Email Address**: [rescrivens@gmail.com](rescrivens@gmail.com)
+- **Email Address**: [rescrivens@protonmail.com](rescrivens@protonmail.com)
 - **Social Media**: [LinkedIn](https://www.linkedin.com/in/richard-scrivens-parry-356847111/)
 - **Location**: Tamworth, Staffordshire.
 - **Languages**: English, native speaker.
@@ -9,7 +9,7 @@
 ## Skills
 - **Coding**: PHP, SQL, Javascript, JQuery, Node.js, Nativescript.
 - **Databases**: MySQL, SQL Server, MariaDB, MongoDB, CouchDB, Redis.
-- **Protocols & Messaging**: MQTT, Beanstalk, WebSockets, Exim.
+- **Protocols & Messaging**: RESTful API's, Webhooks, MQTT, Beanstalk, WebSockets, Exim.
 - **Web-Servers**: Nginx, Apache.
 - **Source Control**: Git, Subversion.
 - **Operating Systems and Applications**: Windows, Ubuntu, Docker, VSCode, Adobe Photoshop.
